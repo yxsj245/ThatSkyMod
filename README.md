@@ -15,6 +15,9 @@
   <img src="https://i.imgur.com/T1MobsX.png" alt="TSM Menu">
 </div>
 
+# [下载TSM最新发行版](https://mirror.ghproxy.com/https://github.com/XeTrinityz/ThatSkyMod/releases/latest/download/TSM.zip)
+# [下载SML最新发行版](https://mirror.ghproxy.com/https://github.com/lukas0x1/sml-pc/releases/latest/download/sml-pc.zip)
+
 ## 关于项目
 
 1. TSM，或That Sky Mod，创建的最终目标是成为您在玩光·遇时唯一需要的模组。我们的愿景是通过集成广泛的功能来增强游戏体验，所有功能都可以通过用户友好的界面访问。我们努力使TSM成为一个全面的工具包，简化改装并提供无尽的定制选项，使您能够根据自己的喜好定制Sky体验。

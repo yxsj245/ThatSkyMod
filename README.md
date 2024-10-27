@@ -15,8 +15,11 @@
   <img src="https://i.imgur.com/T1MobsX.png" alt="TSM Menu">
 </div>
 
-# [下载TSM最新发行版](https://mirror.ghproxy.com/https://github.com/XeTrinityz/ThatSkyMod/releases/latest/download/TSM.zip)
-# [下载SML最新发行版](https://mirror.ghproxy.com/https://github.com/lukas0x1/sml-pc/releases/latest/download/sml-pc.zip)
+# 资源下载
+### [>>下载TSM最新发行版](https://mirror.ghproxy.com/https://github.com/XeTrinityz/ThatSkyMod/releases/latest/download/TSM.zip)
+### [>>下载SML最新发行版](https://mirror.ghproxy.com/https://github.com/lukas0x1/sml-pc/releases/latest/download/sml-pc.zip)
+### [>>下载VC运行库](https://www.123865.com/s/4bNtVv-IXmKv)
+### [>>TSM组件一键安装与管理器](https://www.123865.com/s/4bNtVv-cioKv)
 
 ## 关于项目
 

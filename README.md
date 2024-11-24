@@ -32,7 +32,8 @@
 - **全面功能**：从游戏增强到美学修改，TSM涵盖了广泛的功能，以丰富您的Sky体验。
 
 ### 贡献者
-- TheSR - TSM创始人和发展贡献
+- XeTrinityz - TSM创建者和当前开发人员
+- TheSR - TSM创建者和开发贡献
 - Lukas - SML开发人员和开发贡献
 - Basem - 发展贡献
 - Dark Linux - 发展贡献

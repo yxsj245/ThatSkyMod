@@ -711,5 +711,9 @@
     "Disable Music": "禁用音乐",
     "Lighting Controls": "灯光控制",
     "Toggle Sun/Moon": "切换太阳/月亮",
-    "Moon X Angle": "月亮X角"
+    "Moon X Angle": "月亮X角",
+    "New Value": "重置数值",
+    "Start Delay": "起始·延迟",
+    "Mote ESP": "透视·生物",
+    "FPS Limit": "帧数限制"
 }

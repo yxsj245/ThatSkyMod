@@ -15,12 +15,9 @@
   <img src="https://i.imgur.com/Qo0N44G.png" alt="TSM Menu">
 </div>
 
-# 资源下载
-### [>>下载TSM最新发行版](https://mirror.ghproxy.com/https://github.com/XeTrinityz/ThatSkyMod/releases/latest/download/TSM.zip)
-### [>>下载SML最新发行版](https://mirror.ghproxy.com/https://github.com/lukas0x1/sml-pc/releases/latest/download/sml-pc.zip)
-### [>>下载VC运行库](https://www.123865.com/s/4bNtVv-IXmKv)
-### [>>TSM组件一键安装与管理器](https://www.123865.com/s/4bNtVv-cioKv)
-#### [项目开源地址](https://gitee.com/xiao-zhu245/TSMpackagemanager)
+# 如何安装
+下载ThatSkyApp进行安装[>>点击这里](https://www.123865.com/s/4bNtVv-66mKv)
+
 
 ## 关于项目
 

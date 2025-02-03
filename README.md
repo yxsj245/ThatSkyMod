@@ -44,9 +44,9 @@ TheSR
 Lukas
 
 ### 社区贡献
-MikeyK
-Samual Grey
-k0ra
-yxsj245
+MikeyK \
+Samual Grey \
+k0ra \
+yxsj245 
 
 </div>

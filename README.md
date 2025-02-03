@@ -16,7 +16,7 @@
 </div>
 
 # 如何安装
-下载ThatSkyApp进行安装[>>点击这里](https://www.123865.com/s/4bNtVv-66mKv)
+下载ThatSkyApp进行安装[>>点击这里](https://github.com/XeTrinityz/ThatSkyApp/releases)
 
 
 ## 关于项目
@@ -28,19 +28,25 @@
 - **用户友好界面**：TSM界面的设计考虑了简单性和可用性，新手和有经验的用户都可以轻松访问和配置各种mod功能。
 - **全面功能**：从游戏增强到美学修改，TSM涵盖了广泛的功能，以丰富您的Sky体验。
 
+</br>
+</br>
+
+<div align="center">
 
 ## 贡献者
 ### 开发者
-- XeTrinityz
+XeTrinityz
 
 ### 项目创始人
-- TheSR
+TheSR
 
 ### 发展贡献
-- Lukas
+Lukas
 
 ### 社区贡献
-- MikeyK
-- Samual Grey
-- k0ra
-- yxsj245
+MikeyK
+Samual Grey
+k0ra
+yxsj245
+
+</div>

@@ -734,6 +734,14 @@
     "Disable Jellyfish Collision": "禁用水母吸附",
     "Dye ESP": "透视·染料花",
     "Dye Debug Menu": "染料·调试菜单",
-    "Primary": "主要",
-    "Secondary": "次要"
+    "Primary": "初始",
+    "Secondary": "次要",
+    "Force Piggyback": "强制背背",
+    "Force Princess Carry": "强制公主抱",
+    "Wonderland Cafe": "云巢-咖啡馆",
+    "Auto Collect Nearby Dyes": "自动收集附近的染料",
+    "Collect Nearby Dyes": "收集附近的染料",
+    "Fake Drop 5 Light": "丢弃5个光翼",
+    "Include Plants": "包括植物",
+    "Include Dyes": "包括染料"
 }

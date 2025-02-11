@@ -748,5 +748,13 @@
     "Dye Plant Tools": "染料工具",
     "Primary": "主要",
     "Secondary": "次要",
-    "Semi DR": "半自動染料"
+    "Semi DR": "半自動染料",
+    "Auto Collect Nearby Dyes": "自動收集附近的染料",
+    "Collect Nearby Dyes": "收集附近的染料",
+    "Force Piggyback": "強制背背",
+    "Force Princess Carry": "強制公主抱",
+    "Wonderland Cafe": "雲巢-咖啡館",
+    "Fake Drop 5 Light": "丟棄五個光翼",
+    "Include Dyes": "包括染料",
+    "Include Plants": "包括植物"
 }

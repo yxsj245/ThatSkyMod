@@ -780,5 +780,22 @@
     "Prevents camera from rotating": "你的视角不再可以移动",
     "Prevents camera from moving": "你的视角将固定在当前位置",
     "Enables first-person camera mode": "启用第一人称相机模式",
-    "Right-click for individual quest options": "右键单击以查看单个任务选项"
+    "Right-click for individual quest options": "右键单击以查看单个任务选项",
+    "Skip constellation menus": "在左下角的一个红色半透明按钮点击后即可打开星座菜单",
+    "Shows input controls on screen": "在屏幕上显示输入控件",
+    "Message Stone": "留言宝物",
+    "Spawns closet interface around your avatar": "在你的光崽周围生成装扮界面",
+    "Timelines": "时间表",
+    "MainStreet Events (1)": "主世界活动(烟花表演)",
+    "MainStreet Events (2)": "主世界活动(2)",
+    "Firework Show Act 1": "烟花表演第一幕",
+    "Firework Show Act 2": "烟花表演第二幕",
+    "Firework Show Act 3": "烟花表演第三幕",
+    "Firework Show Act 4": "烟花表演第四幕",
+    "QA Fireworks Testing": "QA烟花测试",
+    "Enter Sky Fest": "进入Sky历史",
+    "NPC Parade": "NPC游行",
+    "Bells Success": "钟声序章",
+    "Starfall": "光崽坠落",
+    "Starfall Burst": "光崽爆裂粒子"
 }
